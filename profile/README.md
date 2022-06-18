@@ -1,4 +1,4 @@
-[![IFS GitHub Banner](./cover.jpg)](https://bunny77k9.github.io/)
+![IFS GitHub Banner](./cover.jpg)
 
 ## Hi there 👋
 
