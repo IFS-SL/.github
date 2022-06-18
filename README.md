@@ -1,1 +1,1 @@
-<h1>IFS interns @IIT Sri Lanka</h1>
+<h1>IFS Interns @IIT Sri Lanka </h1>
