@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-🙋‍♀️ A short introduction - This orgnaziation will help developers who need to work on group projects while we ae working on our internships. <br>
+🙋‍♀️ A short introduction - This orgnaziation will help developers who need to work on group projects working on internships. <br>
 🌈 Contribution guidelines - Everyone who loves to contribute on ongoing, previous and upcoming projects can contribute from anywhere at anytime. <br>
 👩‍💻 Useful resources - StackOverflow XD, StackExchange, CodeGrepper, W3C etc... <br>
 🍿 Fun facts - what does your team eat for breakfast? Dolphin Kottu <br>
