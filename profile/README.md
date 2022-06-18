@@ -1,5 +1,3 @@
-![IFS GitHub Banner](./cover.jpg)
-
 ## Hi there 👋
 
 🙋‍♀️ A short introduction - This orgnaziation will help developers who need to work on group projects working on internships. <br>
